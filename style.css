@@ -1,0 +1,46 @@
+button {
+	width: 105px;
+	height: 86px;
+	font-size: 18px;
+	margin-top: 4px;
+}
+
+.calculator {
+	background-color: lightgrey;
+	width: 450px;
+	height: 600px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-direction: column;
+	margin: 140px auto;
+	padding: 10px;
+	border: solid 1px;
+}
+
+.screen {
+	display: flex;
+	background-color: whitesmoke;
+	width: 370px;
+	height: 70px;
+	margin: 10px;
+	font-size: 50px;
+	padding: 30px;
+	justify-content: flex-end;
+	align-items: flex-end;
+	border: solid 1px;
+}
+
+.buttons {
+	height: 450px;
+	width: 450px;
+	margin-left: 17px;
+}
+
+#AC {
+	background-color: dodgerblue;
+}
+
+#evaluate {
+	background-color: greenyellow;
+}
