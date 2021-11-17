@@ -1,3 +1,3 @@
 # Calculator
 
-An online calculator created for a TOP project.
+An online calculator written in HTML+CSS+JS.
